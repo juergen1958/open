@@ -46,8 +46,8 @@ startprojekt<h1>ein suesser Hund</h1>
 </list>
 <br>
 <object
-width="800"
-heigh="1075"
+width="80%"
+heigh="1000"
 type="aplication/pdf"
-data="USB-Laufwerk(H:)/PDF_Lebenslauf_mannhardt.pdf">
+data="H:/PDF_Lebenslauf_mannhardt.pdf">
 </object>
