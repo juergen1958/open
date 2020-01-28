@@ -30,24 +30,11 @@ startprojekt<h1>ein suesser Hund</h1>
 <br>
 <h2>The Qote</h2>
 <p3>"this is quot from famous author google"</p3>
-
-
-        
-
-
-    </ul>
-
-
-
-        
-
-
-   
-</list>
 <br>
 <object
 width="80%"
-heigh="1000"
-type="aplication/pdf"
-data="H:/PDF_Lebenslauf_mannhardt.pdf">
+height="1080px"
+type="application/pdf"
+data="(H)/PDF_Lebenslauf_Mannhardt.pdf">
 </object>
+    <|frame src="(H:)/PDF_Lebenslauf_Mannhardt.pdf"width=90%"height=100px"></i frame>
